@@ -7,7 +7,7 @@
 
 > android studio
 
-![ort](https://user-images.githubusercontent.com/53194850/91463698-5f4e6b00-e894-11ea-8b11-a33a8e56f6f6.jpg)
+<img src="https://user-images.githubusercontent.com/53194850/91463698-5f4e6b00-e894-11ea-8b11-a33a8e56f6f6.jpg" data-canonical-src="https://user-images.githubusercontent.com/53194850/91463698-5f4e6b00-e894-11ea-8b11-a33a8e56f6f6.jpg" width="200" height="400" />
 
 ## Installation
 
